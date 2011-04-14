@@ -1,7 +1,7 @@
 # James P. Toto
 About: [http://about.me/jptoto](http://about.me/jptoto "My sweet about.me page")  
 Twitter: [@jptoto](http://twitter.com/jptoto "Sometimes I tweet stuff")  
-Blog: [http://jptoto.jp]()  
+Blog: [http://jptoto.jp](http://jptoto.jp "The Blog")  
 
 Highly skilled technical manager, entrepreneur, community advocate, and thought leader with ten years of experience covering the financial,  pharmaceutical, and ecommerce business domains.  Significant breadth of technical platform knowledge, software development life cycle, and design patterns. Strong communicator and leader with excellent end-user and executive level presentation skills.
 
@@ -24,9 +24,9 @@ The MVC Melee is a community-driven coding competition inspired by the Rails Rum
 # Speaking Engagements
 - Code Camp Philly, [April 2011](http://codecamp.phillydotnet.org/2011-1/SitePages/Home.aspx "Code Camp Philly"), [Build Your Own AppHarbor/Heroku git Push Deployment System](http://jptoto.jp/2011/04/11/build-your-own-appharbor-notes/ "Screencast")
 - [Barcamp Philly](http://www.barcampphilly.org) [2008](http://2008.barcampphilly.org), [2009](http://2009.barcampphilly.org), [2010](http://barcampphilly.org) Event Host, What Barcamp is and what you should expect
-- South Jersey DotNET, [July 2010](http://njdotnet-july2010.eventbrite.com/), Using git Source Control Management for .NET Developers
-- [Code Camp NYC](http://nyc.codecamp.us/ "Code Camp NYC"), January 2010, [Using git Source Control Management for .NET Developers](http://www.slideshare.net/jptoto/nyc-code-camp-2010-git-and-github "Slideshare")
-- Code Camp Philly, September 2009, Using git Source Control Management for .NET Developers
+- South Jersey DotNET, [July 2010](http://njdotnet-july2010.eventbrite.com/), Using git and github Source Control Management for .NET Developers
+- [Code Camp NYC](http://nyc.codecamp.us/ "Code Camp NYC"), January 2010, [Using git and github Source Control Management for .NET Developers](http://www.slideshare.net/jptoto/nyc-code-camp-2010-git-and-github "Slideshare")
+- Code Camp Philly, September 2009, Using git and github Source Control Management for .NET Developers
 - Code Camp Philly , September 2008, Setting up an ALT.NET Project. Tools & Design Patterns
 
 # Technology Fluencies

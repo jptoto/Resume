@@ -34,6 +34,7 @@ The MVC Melee is a community-driven coding competition inspired by the Rails Rum
 - Microsoft Windows Server and .NET / ASP.NET / MVC Development Platforms.
 - PHP / Lamp.
 - Unix / Linux Server environments, administration, deployment with Sun and HP UX operating systems.
+- Apple OS X administration, scripting. Objective-C / iOS development.
 - Oracle, SQL Server, MySQL, PostgreSQL, and MongoDB.
 - Continuous integration with automated testing and deployment frameworks such as Team City and Cruise Control
 

@@ -2,6 +2,7 @@
 About: [http://about.me/jptoto](http://about.me/jptoto "My sweet about.me page")  
 Twitter: [@jptoto](http://twitter.com/jptoto "Sometimes I tweet stuff")  
 Blog: [http://jptoto.jp](http://jptoto.jp "The Blog")  
+github ID: 5830  
 
 Highly skilled technical manager, entrepreneur, community advocate, and thought leader with ten years of experience covering the financial,  pharmaceutical, and ecommerce business domains.  Significant breadth of technical platform knowledge, software development life cycle, and design patterns. Strong communicator and leader with excellent end-user and executive level presentation skills.
 

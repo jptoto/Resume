@@ -1,1 +1,1 @@
-### Oh hay! Make with the clicky on jptoto.markdown above!
+Oh hay! Make with the clicky on [jptoto.markdown](https://github.com/jptoto/Resume/blob/master/README.markdown) above!

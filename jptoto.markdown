@@ -19,6 +19,9 @@ Coordinated sponsorships, location venues, and promotions to help establish the 
 ## Co-Director, [Philly ALT.NET User Group](http://phillyalt.net/ "Philly ALT.NET"), ALT.NET [Foundation Series](http://phillyalt.net/FoundationSeriesWorkshop1.ashx "First Foundation Series Class")
 Co-developed and executed the Philadelphia ALT.NET User Group Foundation Series, a set of free monthly meetings designed to refresh developers and managers on software best practices, design patterns, and project management skills.
 
+## John Resig jQuery Event
+Invited John Resig, creator of [jQuery](http://www.jquery.com "jQuery") to speak at [Indy Hall](http://www.indyhall.org "Indy Hall") during [Philly Emerging Tech](http://phillyemergingtech.com "Philly Emerging Tech") 2009. Over 100 developers and designers attended and John spoke at length about jQuery testing and new and upcoming features. He made me buy him a Philly Cheese Steak as compensation.
+
 ## Creator, [MVC Melee](http://www.mvcmelee.com) (Ok, to be fair, I haven't gotten this one off the ground yet.)
 The MVC Melee is a community-driven coding competition inspired by the Rails Rumble. Each year dozens of Rubyists collaborate and create amazing web applications in a mad-dash 48 hour contest. MVC Melee was created to bring that same spirit to creating amazing web applications in ASP.NET MVC. Rails Rumble is an excellent example of community-driven participation and creative web design and we're hoping to bring that same sense of collaboration and creativity to the world of ASP.NET MVC.
 

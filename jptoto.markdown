@@ -28,7 +28,7 @@ The MVC Melee is a community-driven coding competition inspired by the Rails Rum
 # Speaking Engagements
 - Code Camp Philly, [October 2011](http://codecamp.phillydotnet.org/2011-2/SitePages/Home.aspx "Code Camp Philly"), [<em>Building a Proper REST API with the new WCF WebAPI</em>](http://codecamp.phillydotnet.org/2011-2/Lists/Sessions/DispForm.aspx?ID=258 "Summary") 
 - Code Camp Philly, [April 2011](http://codecamp.phillydotnet.org/2011-1/SitePages/Home.aspx "Code Camp Philly"), [<em>Build Your Own AppHarbor/Heroku git Push Deployment System</em>](http://jptoto.jp/2011/04/11/build-your-own-appharbor-notes/ "Screencast")
-- [Barcamp Philly](http://www.barcampphilly.org) [2008](http://2008.barcampphilly.org), [2009](http://2009.barcampphilly.org), [2010](http://barcampphilly.org) Event Host, <em>What Barcamp Is and What You Should Expect</em>
+- [Barcamp Philly](http://www.barcampphilly.org) [2008](http://2008.barcampphilly.org), [2009](http://2009.barcampphilly.org), [2010](http://2010.barcampphilly.org), [2011](http://barcampphilly.org) Event Host, <em>What Barcamp Is and What You Should Expect</em>
 - South Jersey DotNET, [July 2010](http://njdotnet-july2010.eventbrite.com/), <em>Using git and github Source Control Management for .NET Developers</em>
 - [Code Camp NYC](http://nyc.codecamp.us/ "Code Camp NYC"), January 2010, [<em>Using git and github Source Control Management for .NET Developers</em>](http://www.slideshare.net/jptoto/nyc-code-camp-2010-git-and-github "Slideshare")
 - Code Camp Philly, September 2009, <em>Using git and github Source Control Management for .NET Developers</em>

@@ -8,9 +8,9 @@ Highly skilled developer, community advocate, and thought leader with over ten y
 
 
 ## Development and Server Fluencies
-- Ruby / Rails
-- Microsoft .NET / ASP.NET / MVC Development Platforms.
+- Microsoft .NET C# / ASP.NET / MVC Development Platforms.
 - PHP
+- Ruby / Rails
 - Python
 - CouchDB
 - MySQL

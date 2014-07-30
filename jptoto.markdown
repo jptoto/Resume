@@ -52,7 +52,7 @@ BS, Management Science & Information Systems, Pennsylvania State University
 ### [Wildbit](http://www.wildbit.com "Wildbit") 
 #### [Software Engineer](http://www.wildbit.com "Wildbit"), January 2012 - Present
 - Software engineer for [Postmark](http://www.postmarkapp.com), a transaction email API platform for delivering and managing user-event driven email, bounce handling, and statistics.
-- Responsible for building and maintaing the platform API, email parsing, high volume processing and sending, and data storage architecture. 
+- Responsible for building and maintaing the platform API, email parsing, high volume processing and sending, data storage and search architecture. 
 
 ### [Cognis IT](http://www.cognisit.com "Cognis IT") 
 #### [VP Applications Development and Consulting](http://www.cognisit.com/about/key-staff/jp-toto/ "JP Toto"), December 2007 - 2012

@@ -17,6 +17,7 @@ Highly skilled developer, community advocate, and thought leader with over ten y
 - Microsoft SQL Server
 - MongoDB
 - Elasticsearch
+- PostgreSQL
 
 ## Configuration and Administration
 - Unix / Linux Server / Apple OSX

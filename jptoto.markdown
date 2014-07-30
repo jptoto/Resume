@@ -4,28 +4,15 @@ Twitter: [@jptoto](http://twitter.com/jptoto "Sometimes I tweet stuff")
 Blog: [http://jptoto.jp](http://jptoto.jp "The Blog")  
 github ID: 5830  
 
-Highly skilled technical manager, entrepreneur, community advocate, and thought leader with ten years of experience covering the financial,  pharmaceutical, and ecommerce business domains.  Significant breadth of technical platform knowledge, software development life cycle, and design patterns. Strong communicator and leader with excellent end-user and executive level presentation skills.
+Highly skilled developer, community advocate, and thought leader with over ten years of experience covering the financial,  pharmaceutical, and SaaS domains.  Significant breadth of technical platform knowledge, software development life cycle, and design patterns. Strong communicator and leader with excellent end-user and executive level presentation skills.
 
 # Community Involvement
-## Founder, Director, [Barcamp Philadelphia](http://www.barcampphilly.org "Barcamp Philly!!")
+## Founder, Director (retired) [Barcamp Philadelphia](http://www.barcampphilly.org "Barcamp Philly!!")
 Successfully conceived, planned, and lead [Barcamp Philly](http://www.barcampphilly.org) [2008](http://2008.barcampphilly.org), [2009](http://2009.barcampphilly.org), [2010](http://2010.barcampphilly.org), and [2011](http://barcampphilly.org). Barcamp is a free (un)conference for developers, designers, new media workers, executives, and anyone else who wants to come. Sponsors include Microsoft, Comcast, and The University of Pennsylvania. Over 300 professionals, freelancers, and coworkers from the Philadelphia area participate each year making it one of the premier technology events in Philadelphia each fall.
 
-## Co-Host, [The Overloadshow](http://www.overloadshow.com "The Overload Show")
-The Overload Show is a weekly live video podcast hosted by JP Toto and John Sheehan set in a "Pardon The Interruption" format where they review the weeks' news about web development, recent .NET topics, and OSS efforts in the community. Recent discussions included: ASP.NET MVC, node.js, git and github, and OWIN. 
- 
-## Sponsor and Promoter, [Conshohocken.rb](http://www.conshohockenrb.org/ "Conshohocken.rb")
-Coordinated sponsorships, location venues, and promotions to help establish the first [suburban Philadelphia](http://maps.google.com/maps?q=101+west+elm+street+conshohocken+pa&ie=UTF8&hq=&hnear=101+W+Elm+St,+Conshohocken,+Pennsylvania+19428&gl=us&z=16) Ruby users group.
-
-## Co-Director, [Philly ALT.NET User Group](http://phillyalt.net/ "Philly ALT.NET"), ALT.NET [Foundation Series](http://phillyalt.net/FoundationSeriesWorkshop1.ashx "First Foundation Series Class")
-Co-developed and executed the Philadelphia ALT.NET User Group Foundation Series, a set of free monthly meetings designed to refresh developers and managers on software best practices, design patterns, and project management skills.
-
-## John Resig jQuery Event
-Invited John Resig, creator of [jQuery](http://www.jquery.com "jQuery") to speak at [Indy Hall](http://www.indyhall.org "Indy Hall") during [Philly Emerging Tech](http://phillyemergingtech.com "Philly Emerging Tech") 2009. Over 100 developers and designers attended and John spoke at length about jQuery testing and new and upcoming features. He made me buy him a Philly Cheese Steak as compensation.
-
-## Creator, [MVC Melee](http://www.mvcmelee.com) (Ok, to be fair, I haven't gotten this one off the ground yet.)
-The MVC Melee is a community-driven coding competition inspired by the Rails Rumble. Each year dozens of Rubyists collaborate and create amazing web applications in a mad-dash 48 hour contest. MVC Melee was created to bring that same spirit to creating amazing web applications in ASP.NET MVC. Rails Rumble is an excellent example of community-driven participation and creative web design and we're hoping to bring that same sense of collaboration and creativity to the world of ASP.NET MVC.
 
 # Speaking Engagements
+- NDC London, [December 2013](http://ndc-london.com "NDC London"), <em>Installing and configuring an Elasticsearch cluster.</em> 
 - Code Camp Philly, [October 2011](http://codecamp.phillydotnet.org/2011-2/SitePages/Home.aspx "Code Camp Philly"), [<em>Building a Proper REST API with the new WCF WebAPI</em>](http://codecamp.phillydotnet.org/2011-2/Lists/Sessions/DispForm.aspx?ID=258 "Summary") 
 - Code Camp Philly, [April 2011](http://codecamp.phillydotnet.org/2011-1/SitePages/Home.aspx "Code Camp Philly"), [<em>Build Your Own AppHarbor/Heroku git Push Deployment System</em>](http://jptoto.jp/2011/04/11/build-your-own-appharbor-notes/ "Screencast")
 - [Barcamp Philly](http://www.barcampphilly.org) [2008](http://2008.barcampphilly.org), [2009](http://2009.barcampphilly.org), [2010](http://2010.barcampphilly.org), [2011](http://barcampphilly.org) Event Host, <em>What Barcamp Is and What You Should Expect</em>
@@ -34,21 +21,36 @@ The MVC Melee is a community-driven coding competition inspired by the Rails Rum
 - Code Camp Philly, September 2009, <em>Using git and github Source Control Management for .NET Developers</em>
 - Code Camp Philly , September 2008, <em>Setting up an ALT.NET Project. Tools & Design Patterns</em>
 
-# Technology Fluencies
+# Development and Server Fluencies
 - Ruby / Rails
-- Microsoft Windows Server and .NET / ASP.NET / MVC Development Platforms.
-- PHP / Lamp.
-- Unix / Linux Server environments, administration, deployment with Sun and HP UX operating systems.
-- Apple OS X administration, scripting. Objective-C / iOS development.
-- Oracle, SQL Server, MySQL, PostgreSQL, and MongoDB.
-- Continuous integration with automated testing and deployment frameworks such as Team City and Cruise Control
+- Microsoft .NET / ASP.NET / MVC Development Platforms.
+- PHP
+- Python
+- CouchDB
+- MySQL
+- Microsoft SQL Server
+- MongoDB
+- Elasticsearch
+
+# Configuration and Administration
+- Unix / Linux Server / Apple OSX
+- Microsoft Windows Server and Windows Domain administration
+- Powershell, bash
+- Oracle, SQL Server, MySQL, PostgreSQL, MongoDB, Elasticsearch
+- Chef configuration and recipes
+- Continuous integration with automated testing and deployment frameworks such as Team City,  Cruise Control, and Jenkins
 
 # Education
 BS, Management Science & Information Systems, Pennsylvania State University
 
 # Career Experience
+## [Wildbit](http://www.wildbit.com "Wildbit") 
+### [Software Engineer](http://www.wildbit.com "Wildbit"), January 2012 - Present
+- Software engineer for [Postmark](http://www.postmarkapp.com), a transaction email API platform for delivering and managing user-event driven email, bounce handling, and statistics.
+- Responsible for building and maintaing the platform API, email parsing, high volume processing and sending, and data storage architecture. 
+
 ## [Cognis IT](http://www.cognisit.com "Cognis IT") 
-### [VP Applications Development and Consulting](http://www.cognisit.com/about/key-staff/jp-toto/ "JP Toto"), December 2007 - Present
+### [VP Applications Development and Consulting](http://www.cognisit.com/about/key-staff/jp-toto/ "JP Toto"), December 2007 - 2012
 - Responsible for all aspects of Cognis IT Applications business including initiating marketing email campaigns, writing proposals, working with client representatives to sign engagement agreements, and managing project timelines and budgets. Grew revenues from $0 to $100,000+ in one year.
 - Create compelling new web applications, tools, or custom intranet websites using a variety of technology platforms such as ASP.NET, Ruby on Rails, and PHP. 
 - Outsource and manage freelance worker contributions to projects such as Adobe Flash and graphic design.

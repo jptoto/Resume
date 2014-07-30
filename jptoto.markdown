@@ -28,7 +28,7 @@ Highly skilled developer, community advocate, and thought leader with over ten y
 - Continuous integration with automated testing and deployment frameworks such as Team City,  Cruise Control, and Jenkins
  
 ## Open Source Contributions
-- [log4net.Elasticsearch](https://github.com/jptoto/log4net.ElasticSearch) A log4net extension that allows easy logging of errors and logs from log4net directly to Elasticsearch for easy access and searching.
+- [log4net.Elasticsearch](https://github.com/jptoto/log4net.ElasticSearch) A [log4net](http://logging.apache.org/log4net) extension that allows easy logging of errors and logs from log4net directly to [Elasticsearch](http://www.elasticsearch.org) for easy access and searching.
 
 ## Community Involvement
 ### Founder, Director (retired) [Barcamp Philadelphia](http://www.barcampphilly.org "Barcamp Philly!!")
